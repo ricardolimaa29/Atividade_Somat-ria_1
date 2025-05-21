@@ -14,9 +14,8 @@ Você está encarregado(a) de criar um sistema inteligente para análise rápida
 
 ### 🧮 Fórmula Secreta
 
-\
+
 IMC= peso / (altura*altura)
-\
 
 ---
 
@@ -64,7 +63,15 @@ Seu sistema deve seguir a seguinte conduta ao interpretar o IMC:
 > Ao concluir, entregue seu arquivo `.py` conforme instruções.  
 > A missão só será considerada **bem-sucedida** se todos os requisitos forem cumpridos.
 
-Boa sorte, agente.  
-**Sua lógica pode salvar vidas.** 🧬
+<h1> Boa sorte, agente. 🤞  </h1>
+** Prof.Ricardo **  👨‍🏫👨‍💻
 
 ---
+<br>
+<br>
+
+# Abaixo deixo informações de como será feia a avaliação de vocês!
+<br>
+
+![image](https://github.com/user-attachments/assets/cf6e78b7-cc0d-43b2-893b-0b4403e1580a)
+
